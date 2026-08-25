@@ -1572,7 +1572,7 @@ SES.Kill=UX.KillScript
 end
 ;(function()
 	local K="XYZCONTRIAL_C991"
-	local URL="https://raw.githubusercontent.com/CelestialzX/Murder-Mystery-2/refs/heads/main/key.lua?token=GHSAT0AAAAAAEGY6W3WC6QVM2VWAFYRVLXU2UNOL3Q"
+	local URL="https://work.ink/2Tty/key-system-xyz-hub-murder-mystery-2"
 	local FULL,TOP=182,40
 	local MINUS,EXPAND="rbxassetid://81253841082995","rbxassetid://115994741693562"
 	local KEY_TOGGLE_ICON_SIZE=18 -- adjust toggle icon size
